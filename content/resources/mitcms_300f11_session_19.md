@@ -2,9 +2,14 @@
 content_type: resource
 description: Lecture notes on games and violence, media effects, aggression, and aggressive
   behavior versus play.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-300-introduction-to-videogame-studies-fall-2011/42134348bbc140f74bcdec7a9363d51e_MITCMS_300F11_session_19.pdf
+file: /media/courses/cms-300-introduction-to-videogame-studies-fall-2011/42134348bbc140f74bcdec7a9363d51e_MITCMS_300F11_session_19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Session 19 \u2013 GAMES AND VIOLENCE"
+type: OCWFile
 uid: 42134348-bbc1-40f7-4bcd-ec7a9363d51e
 ---

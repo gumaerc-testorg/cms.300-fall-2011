@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: daaa35b2-4528-b838-7444-37415d0e46c6
 title: Choosing the Game
+type: CourseSection
 uid: 49845ad7-06a4-05de-e4a1-d53b944f8c84
 ---
 
