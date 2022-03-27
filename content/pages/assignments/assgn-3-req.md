@@ -2,11 +2,11 @@
 content_type: page
 learning_resource_types:
 - Assignments
+ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: daaa35b2-4528-b838-7444-37415d0e46c6
 title: Assignment 3 Requirements
-type: CourseSection
 uid: 3ca691b0-d819-1229-50fa-215bca93b82d
 ---
 

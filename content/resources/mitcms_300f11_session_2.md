@@ -6,10 +6,11 @@ file: /media/courses/cms-300-introduction-to-videogame-studies-fall-2011/e9f5a9a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29958a24-8964-74dc-30f5-a0a7eeef69b9
 resourcetype: Document
 title: " Session 2 \u2013 PLAY & GAMES "
-type: OCWFile
 uid: e9f5a9af-8b2f-73de-9c69-99d6ce85d64e
 ---

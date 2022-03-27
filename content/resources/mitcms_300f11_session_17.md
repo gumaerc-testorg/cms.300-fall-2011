@@ -7,10 +7,11 @@ file: /media/courses/cms-300-introduction-to-videogame-studies-fall-2011/8f99b29
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29958a24-8964-74dc-30f5-a0a7eeef69b9
 resourcetype: Document
 title: "Session 17 \u2013 GAME AESTHETICS "
-type: OCWFile
 uid: 8f99b295-7784-29d7-14d6-0deee6af5b30
 ---

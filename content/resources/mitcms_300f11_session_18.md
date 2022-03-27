@@ -6,10 +6,11 @@ file: /media/courses/cms-300-introduction-to-videogame-studies-fall-2011/fbbe561
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29958a24-8964-74dc-30f5-a0a7eeef69b9
 resourcetype: Document
 title: "Session 18 \u2013 FORMAL ASPECTS OF GAMES "
-type: OCWFile
 uid: fbbe5611-aedf-6631-b530-3fe1479721ea
 ---

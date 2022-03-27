@@ -6,10 +6,11 @@ file: /media/courses/cms-300-introduction-to-videogame-studies-fall-2011/6111828
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29958a24-8964-74dc-30f5-a0a7eeef69b9
 resourcetype: Document
 title: "Session 3 \u2013 DIGTAL ENVIRONMENTS & GAMES"
-type: OCWFile
 uid: 6111828c-199d-9d90-c1ea-ca809a737297
 ---

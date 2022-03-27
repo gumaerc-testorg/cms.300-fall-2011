@@ -6,10 +6,11 @@ file: /media/courses/cms-300-introduction-to-videogame-studies-fall-2011/f57be77
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29958a24-8964-74dc-30f5-a0a7eeef69b9
 resourcetype: Document
 title: "Session 15 \u2013 SIMULATIONS "
-type: OCWFile
 uid: f57be777-fcc4-deb9-3bcf-7ac5efaac0a7
 ---

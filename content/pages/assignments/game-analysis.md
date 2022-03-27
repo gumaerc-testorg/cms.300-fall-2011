@@ -2,11 +2,11 @@
 content_type: page
 learning_resource_types:
 - Assignments
+ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: daaa35b2-4528-b838-7444-37415d0e46c6
 title: Game Analysis Guidelines
-type: CourseSection
 uid: 3daac9bc-9228-0b48-6ad7-c575309f189d
 ---
 

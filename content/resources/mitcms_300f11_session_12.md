@@ -6,10 +6,11 @@ file: /media/courses/cms-300-introduction-to-videogame-studies-fall-2011/68c2c22
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29958a24-8964-74dc-30f5-a0a7eeef69b9
 resourcetype: Document
 title: "Session 12 \u2013 IDENTITY CONSTRUCTION "
-type: OCWFile
 uid: 68c2c22a-3449-e3f6-44a7-2f80de6c6d75
 ---

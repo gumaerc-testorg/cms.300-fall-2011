@@ -12,9 +12,9 @@ image_metadata:
   image-alt: A photo of several people playing a version of Spacewar that was made
     by the MIT-Singapore GAMBIT Lab in honor of Spacewar's 50th anniversary.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: A photo of several people playing a version of Spacewar that was made by the
   MIT-Singapore GAMBIT Lab in honor of Spacewar's 50th anniversary
-type: OCWImage
 uid: 17773da8-7864-d238-1a4b-fcc8ebd5855e
 ---

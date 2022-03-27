@@ -6,10 +6,11 @@ file: /media/courses/cms-300-introduction-to-videogame-studies-fall-2011/0185e6d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29958a24-8964-74dc-30f5-a0a7eeef69b9
 resourcetype: Document
 title: "Session 16 \u2013 PERSUASIVE GAMES / VALUES IN SYSTEMS"
-type: OCWFile
 uid: 0185e6de-7c6e-189e-16a5-b0c3f4d171ae
 ---
