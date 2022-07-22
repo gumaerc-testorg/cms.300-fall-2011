@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: daaa35b2-4528-b838-7444-37415d0e46c6
 title: 'Written Assingment 1: Learning to Play Videogames'
 uid: 821cc71d-0396-a289-9274-a471c4f2a7e2

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: daaa35b2-4528-b838-7444-37415d0e46c6
 title: Some Basic Advice
 uid: 19e303b5-a43a-ada4-ab10-c25d13c01262

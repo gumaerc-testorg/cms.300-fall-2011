@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 74e8fb12-d6dc-3136-1a86-ca3e0ff3ce3d
 ---
@@ -73,7 +76,7 @@ Huizinga, John. _Homo Ludens: A Study of the Play-Element in Culture._ Roy Press
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -112,7 +115,7 @@ Galloway, Alexander R. "Gaming Action, Four Moments." In _Gaming: Essays On Algo
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -177,7 +180,7 @@ Spoilsport
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -254,7 +257,7 @@ Juul, Jesper. "[Games Telling Stories? – A brief Note on Games and Narratives]
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -321,7 +324,7 @@ Qualitative vs Quantitative Research
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -370,7 +373,7 @@ Persona vs. Avatar vs. Player Character
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -433,7 +436,7 @@ Operator / Interactor
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -496,7 +499,7 @@ Manipulation rules
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -577,7 +580,7 @@ Flanagan, M., D. C. Howe, and H. Nissenbaum. "Values at Play: Design Tradeoffs i
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -616,7 +619,7 @@ Dutton, N., M. Consalvo, T. Harper. "[Digital Pitchforks and Virtual Torches: Fa
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
