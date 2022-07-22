@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/7d71f76f5d223
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Session 8 \u2013 IMMERSION"
 uid: 7d71f76f-5d22-3739-229e-866d1e25c993
 ---
 Lecture notes on the concept of immersion, the ways and conditions for immersion, and breaking immersion.
-

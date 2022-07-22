@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/6111828c199d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Session 3 \u2013 DIGTAL ENVIRONMENTS & GAMES"
 uid: 6111828c-199d-9d90-c1ea-ca809a737297
 ---
 Lecture notes on the basic principles of digital media foundations and how to digest media changes games.
-

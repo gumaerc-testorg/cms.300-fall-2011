@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/fbbe5611aedf6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Session 18 \u2013 FORMAL ASPECTS OF GAMES "
 uid: fbbe5611-aedf-6631-b530-3fe1479721ea
 ---
 Lecture notes on formal aspects of games, abstraction, design, tools, mechanics versus manipulation rules, dynamics, and aesthetics.
-

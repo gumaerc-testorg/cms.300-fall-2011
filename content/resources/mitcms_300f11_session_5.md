@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/6feaaa52f6454
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Session 5 \u2013 UNWRITTEN RULES "
 uid: 6feaaa52-f645-4374-eb8d-54d09f7e2761
 ---
 Lecture notes on unwritten rules, literacy, the importance of players in playing, and how games are understood differently by different players.
-

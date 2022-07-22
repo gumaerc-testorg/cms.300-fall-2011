@@ -7,6 +7,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/fbbf338d19874
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,5 +17,3 @@ title: "Session 20 \u2013 GAMES JOURNALISM "
 uid: fbbf338d-1987-45d5-519f-ec493aab9b8a
 ---
 Lecture notes on game journalism, general press on games, perpetuating myths, media effects, sensationalism, controversy, reporting of games/console releases (covert advertising), and criticism for the masses.
-
-

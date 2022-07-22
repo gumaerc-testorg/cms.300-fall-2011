@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/3b0f051ce8761
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Session 1 \u2013 PLAY"
 uid: 3b0f051c-e876-1ae8-1469-d248bccabc70
 ---
 Lecture notes on play and playfulness, meaningful play, ritual, play as a contest, and fun.
-

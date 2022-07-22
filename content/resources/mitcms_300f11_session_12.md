@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/68c2c22a3449e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Session 12 \u2013 IDENTITY CONSTRUCTION "
 uid: 68c2c22a-3449-e3f6-44a7-2f80de6c6d75
 ---
 Lecture notes on the tools that players are given to play online and how representation in games affects players' positioning in the world.
-

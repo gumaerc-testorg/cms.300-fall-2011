@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/e9f5a9af8b2f7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: " Session 2 \u2013 PLAY & GAMES "
 uid: e9f5a9af-8b2f-73de-9c69-99d6ce85d64e
 ---
 Lecture notes on the multiplicity of definitions of play and games.
-
-
 

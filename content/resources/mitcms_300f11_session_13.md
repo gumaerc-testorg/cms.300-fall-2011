@@ -7,6 +7,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/03f144cb9ac2d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,5 +17,3 @@ title: "Session 13 \u2013 FICTIONAL WORLDS "
 uid: 03f144cb-9ac2-d795-f320-b6e7f000581e
 ---
 Lecture notes on fictional worlds (fiction virtual worlds), worldness, incoherent worlds, persistent representation, fictional world versus narrative, and simulation.
-
-

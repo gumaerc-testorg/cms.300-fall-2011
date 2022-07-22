@@ -7,6 +7,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/8f99b29577842
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Session 17 \u2013 GAME AESTHETICS "
 uid: 8f99b295-7784-29d7-14d6-0deee6af5b30
 ---
 Lecture notes on game aesthetics, platform studies, intertextuality, different types of analysis (platform/technology, gameplay), how content relates a game to other texts, and close reading.
-

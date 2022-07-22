@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/42134348bbc14
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Session 19 \u2013 GAMES AND VIOLENCE"
 uid: 42134348-bbc1-40f7-4bcd-ec7a9363d51e
 ---
 Lecture notes on games and violence, media effects, aggression, and aggressive behavior versus play.
-

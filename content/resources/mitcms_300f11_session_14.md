@@ -6,6 +6,7 @@ file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/c1ce3cae915da
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Session 14 \u2013 NARRATIVE SPACES"
 uid: c1ce3cae-915d-a1f6-2b07-861faae77b51
 ---
 Lecture notes on video game space, rule-based space, mediated space, fictional space, play space, and social space.
-
