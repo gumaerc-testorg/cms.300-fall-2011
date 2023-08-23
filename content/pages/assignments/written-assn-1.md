@@ -1,15 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the first writing assignment of
+  the course.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: daaa35b2-4528-b838-7444-37415d0e46c6
-title: 'Written Assingment 1: Learning to Play Videogames'
+title: 'Written Assignment 1: Learning to Play Videogames'
 uid: 821cc71d-0396-a289-9274-a471c4f2a7e2
 ---
-
 The first assignment is a reflection on how we play videogames, and how digital media change the way we learn to play games. It is also an exercise to make you all aware of the conventions that can become an obstacle for new players to learn, and which may be invisible to seasoned players.
 
 Choose one assignment and do the activity taking notes. Your report should be between 1000-1200 words, double spaced in 12 point standard fonts (Times, Arial, etc.), and submitted in one of the following standard formats: .doc, .pdf or .rtf.

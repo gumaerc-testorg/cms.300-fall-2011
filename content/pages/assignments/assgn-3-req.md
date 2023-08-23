@@ -1,15 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the third writing assignment of
+  the course.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: daaa35b2-4528-b838-7444-37415d0e46c6
-title: Assignment 3 Requirements
+title: Written Assignment 3
 uid: 3ca691b0-d819-1229-50fa-215bca93b82d
 ---
-
 This is an extended version of Assignment 2, where you elaborate on your argument from the first paper. You have to demonstrate that you understand the theory and how to apply it to the game, showing that you're an expert both on the game and on the theoretical aspects that are relevant to your discussion. It may be the case that, in playing the game in more depth, you realize your initial assumptions are challenged—rebating or qualifying your previous work is a perfectly valid paper. You cannot take the previous assignment and paste in a couple more paragraphs—that will be an instant F.
 
 Both assignments will evaluate your capacity to analyze the specific aspects of the game that you advance in the first paper, and providing novel insight on the game, i.e. your reader should learn something new about it.
