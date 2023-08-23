@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines on choosing a game to analyze for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

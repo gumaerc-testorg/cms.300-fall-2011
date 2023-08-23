@@ -28,7 +28,9 @@
   },
   "course_title": "Introduction to Videogame Studies",
   "course_description": "This course offers an introduction to the interdisciplinary study of videogames as texts through an examination of their cultural, educational, and social functions in contemporary settings. Students play and analyze videogames while reading current research and theory from a variety of sources in the sciences, social sciences, humanities, and industry. Assignments focus on game analysis in the context of the theories discussed in class. Class meetings involve regular reading, writing, and presentation exercises. No prior programming experience required. Students taking the graduate version complete additional assignments.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.841",
   "primary_course_number": "CMS.300",
   "course_image_thumbnail": {
@@ -39,6 +41,7 @@
     "Lecture Notes",
     "Written Assignments"
   ],
-  "site_uid": "5162b4e9-e7a9-49ec-a2cc-ceed6deac804",
+  "site_uid": "9dfc3548-fad9-49bb-8c8a-a8162977101e",
+  "site_short_id": "cms.300-fall-2011",
   "title": "Course Metadata"
 }

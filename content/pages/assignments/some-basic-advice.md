@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides basic advice on reading and writing for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,4 +19,4 @@ Wikipedia is a good place to start, but it's not a quotable source. Go to the so
 
 You now know the due dates of both assignments, which means you can make an appointment at the writing center well in advance. If you feel unsure about your writing, please visit the writing center!
 
-"Big Red Flags that Give Away a Weak Paper" ([PDF]({{< baseurl >}}/resources/mitcms_300f11_paperadvicegames))
+"Big Red Flags that Give Away a Weak Paper" ({{% resource_link 2377a138-116e-c9fb-f91a-e687d41b6899 "PDF" %}})

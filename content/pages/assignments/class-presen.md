@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Further explanation of class presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
