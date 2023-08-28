@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides guidelines on game analysis.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,4 +11,4 @@ title: Game Analysis Guidelines
 uid: 3daac9bc-9228-0b48-6ad7-c575309f189d
 ---
 
-Download Game Analysis Guidelines ([PDF]({{< baseurl >}}/resources/mitcms_300f11_gameanaguide))
+Download Game Analysis Guidelines ({{% resource_link 071e671d-bde4-e7e4-5784-48c75815abf8 "PDF" %}})
