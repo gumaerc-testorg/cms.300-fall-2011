@@ -1,15 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the second writing assignment of
+  the course.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: daaa35b2-4528-b838-7444-37415d0e46c6
-title: Written Assingment 2
+title: Written Assignment 2
 uid: b6f14834-c7a3-33ed-ce42-a3ea1c983f1e
 ---
-
 The core assignments of the course require demonstrating that you can analyze a videogame (or group of videogames) in the light of the theories covered in class, providing insight about the game or games which you are focusing on. Assignment 2 is a first approach to the game, where you have to introduce what makes the game worth of your study, what sets it apart, why they are worth studying. In Assignment 3, you have to expand the previous assignment, analyze the game in depth, and provide insight on it.
 
 Assignment 2 Requirements
