@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on types of players and motivations, and how new players
   construct their identity versus how developers construct identity for players.
 file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/d2c4c9bd812a7d4a454b78a93ac1d752_MITCMS_300F11_session_11.pdf
+file_size: 168998
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
