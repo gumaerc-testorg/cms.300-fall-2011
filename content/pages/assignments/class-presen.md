@@ -37,22 +37,22 @@ What will be evaluated:
 Wikipedia Links to all the Games
 --------------------------------
 
-{{% resource_link "92ea6813-b69e-490a-9841-c538e7c251d5" "Manic Miner" %}}
+[Manic Miner](http://en.wikipedia.org/wiki/Manic_Miner)
 
-{{% resource_link "575e5b8f-26ff-4a99-bf20-9744249f8859" "Jet Set Willy" %}}
+[Jet Set Willy](http://en.wikipedia.org/wiki/Jet_Set_Willy)
 
-{{% resource_link "95782524-d318-41aa-9b0d-06a3bf7ddf06" "La Abadia del Crimen" %}}
+[La Abadia del Crimen](http://en.wikipedia.org/wiki/La_abadia_del_crimen)
 
-{{% resource_link "39b8564a-6215-44d7-9556-91bcb23dc066" "Deus Ex Machina" %}}
+[Deus Ex Machina](http://en.wikipedia.org/wiki/Deus_Ex_Machina_%28video_game%29)
 
-{{% resource_link "17811c35-4a4d-4279-97f0-ead9e1dcdef3" "The Sentinel" %}}
+[The Sentinel](http://en.wikipedia.org/wiki/The_Sentinel_%28video_game%29)
 
-{{% resource_link "8a386058-6b1c-4bb6-ab3d-6b0793e65315" "Elite" %}}
+[Elite](http://en.wikipedia.org/wiki/Elite_%28video_game%29)
 
-{{% resource_link "c6ca24fe-6aa2-46a7-8df0-84c5a8e19ef4" "Knight Lore" %}}
+[Knight Lore](http://en.wikipedia.org/wiki/Knight_Lore)
 
-{{% resource_link "24f2b7e0-548f-464d-a640-b59eb49c9780" "Head Over Heels" %}}
+[Head Over Heels](http://en.wikipedia.org/wiki/Head_over_Heels_%28video_game%29)
 
-{{% resource_link "17729a28-4351-4da7-ab41-c5789ec3d978" "Green Beret / Rush 'n Attack" %}}
+[Green Beret / Rush 'n Attack](http://en.wikipedia.org/wiki/Rush_%27n_Attack)
 
-{{% resource_link "f7b0a1d8-2473-40c3-b48f-52d466d6d9f4" "The Hobbit" %}}
+[The Hobbit](http://en.wikipedia.org/wiki/The_Hobbit_%281982_video_game%29)

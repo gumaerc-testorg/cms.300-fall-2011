@@ -7,8 +7,8 @@ file_size: 7293
 file_type: image/jpeg
 image_metadata:
   caption: GAMBIT Game Lab recreated Spacewar. Released in 1962, it is one of the
-    earliest known digital computer games. (Photo courtesy of {{% resource_link "678ba090-9283-4764-bd30-b0a33bdfb3c9"
-    "rikaru" %}} on Flickr.)
+    earliest known digital computer games. (Photo courtesy of [rikaru](http://www.flickr.com/photos/rikaru/6843787109/in/set-72157629237289151/)
+    on Flickr.)
   credit: Photo courtesy of rikaru on Flickr.
   image-alt: A photo of several people playing a version of Spacewar that was made
     by the MIT-Singapore GAMBIT Lab in honor of Spacewar's 50th anniversary.
