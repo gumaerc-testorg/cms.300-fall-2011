@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on play and playfulness, meaningful play, ritual, play
   as a contest, and fun.
 file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/3b0f051ce8761ae81469d248bccabc70_MITCMS_300F11_session_1.pdf
+file_size: 87910
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

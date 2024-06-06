@@ -4,6 +4,7 @@ description: Lecture notes on game aesthetics, platform studies, intertextuality
   different types of analysis (platform/technology, gameplay), how content relates
   a game to other texts, and close reading.
 file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/8f99b295778429d714d60deee6af5b30_MITCMS_300F11_session_17.pdf
+file_size: 112379
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

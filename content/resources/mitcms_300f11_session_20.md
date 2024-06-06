@@ -4,6 +4,7 @@ description: "Lecture notes on game journalism, general press on games, perpetua
   \ myths, media effects, sensationalism, controversy, reporting of games/console\
   \ releases (covert advertising), and criticism for the masses.\r\n"
 file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/fbbf338d198745d5519fec493aab9b8a_MITCMS_300F11_session_20.pdf
+file_size: 104277
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
