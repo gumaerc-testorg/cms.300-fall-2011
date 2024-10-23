@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on the multiplicity of definitions of play and games.\r\
   \n\r\n"
-file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/e9f5a9af8b2f73de9c6999d6ce85d64e_MITCMS_300F11_session_2.pdf
+file: /ol-ocw-studio-app/courses/cms-300-introduction-to-videogame-studies-fall-2011/e9f5a9af8b2f73de9c6999d6ce85d64e_MITCMS_300F11_session_2.pdf
 file_size: 115334
 file_type: application/pdf
 learning_resource_types:

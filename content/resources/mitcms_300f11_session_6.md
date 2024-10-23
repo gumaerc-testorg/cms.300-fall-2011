@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on cheating in games, definitions of cheating, why people
   cheat, written versus unwritten rules, hard versus soft rules, and speed runs.
-file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/6a01716335f7ccf53bf2bd5c1bca29d2_MITCMS_300F11_session_6.pdf
+file: /ol-ocw-studio-app/courses/cms-300-introduction-to-videogame-studies-fall-2011/6a01716335f7ccf53bf2bd5c1bca29d2_MITCMS_300F11_session_6.pdf
 file_size: 128273
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the basic principles of digital media foundations and
   how to digest media changes games.
-file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/6111828c199d9d90c1eaca809a737297_MITCMS_300F11_session_3.pdf
+file: /ol-ocw-studio-app/courses/cms-300-introduction-to-videogame-studies-fall-2011/6111828c199d9d90c1eaca809a737297_MITCMS_300F11_session_3.pdf
 file_size: 562091
 file_type: application/pdf
 learning_resource_types:
