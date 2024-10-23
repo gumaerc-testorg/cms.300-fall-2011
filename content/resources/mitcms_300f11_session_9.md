@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture notes on different motivations of play, how people play together\
   \ in online worlds, online communities, and qualitative versus quantitative approaches.\r\
   \n"
-file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/5563ed4f7aab87ac5b0fd96daa567dd2_MITCMS_300F11_session_9.pdf
+file: /ol-ocw-studio-app/courses/cms-300-introduction-to-videogame-studies-fall-2011/5563ed4f7aab87ac5b0fd96daa567dd2_MITCMS_300F11_session_9.pdf
 file_size: 159220
 file_type: application/pdf
 learning_resource_types:

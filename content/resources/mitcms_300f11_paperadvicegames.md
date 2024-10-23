@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on writing papers for the course.
-file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/2377a138116ec9fbf91ae687d41b6899_MITCMS_300F11_paperadvicegames.pdf
+file: /ol-ocw-studio-app/courses/cms-300-introduction-to-videogame-studies-fall-2011/2377a138116ec9fbf91ae687d41b6899_MITCMS_300F11_paperadvicegames.pdf
 file_size: 168186
 file_type: application/pdf
 learning_resource_types: []
