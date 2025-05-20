@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on procedural rhetoric, persuasive games  versus serious
   games, and abstraction.
-file: /ol-ocw-studio-app/courses/cms-300-introduction-to-videogame-studies-fall-2011/0185e6de7c6e189e16a5b0c3f4d171ae_MITCMS_300F11_session_16.pdf
+file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/0185e6de7c6e189e16a5b0c3f4d171ae_MITCMS_300F11_session_16.pdf
 file_size: 114275
 file_type: application/pdf
 learning_resource_types:

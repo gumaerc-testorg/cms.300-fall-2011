@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on video game space, rule-based space, mediated space,
   fictional space, play space, and social space.
-file: /ol-ocw-studio-app/courses/cms-300-introduction-to-videogame-studies-fall-2011/c1ce3cae915da1f62b07861faae77b51_MITCMS_300F11_session_14.pdf
+file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/c1ce3cae915da1f62b07861faae77b51_MITCMS_300F11_session_14.pdf
 file_size: 109021
 file_type: application/pdf
 learning_resource_types:
