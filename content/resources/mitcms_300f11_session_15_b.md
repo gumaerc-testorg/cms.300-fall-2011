@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on performance, theatre, drama, spectatorship, progression
   versus emergence, models of theatre.
-file: /courses/cms-300-introduction-to-videogame-studies-fall-2011/a94c35463c47255dfed9d22249eb9a2d_MITCMS_300F11_session_15_b.pdf
+file: /ol-ocw-studio-app/courses/cms-300-introduction-to-videogame-studies-fall-2011/a94c35463c47255dfed9d22249eb9a2d_MITCMS_300F11_session_15_b.pdf
 file_size: 50888
 file_type: application/pdf
 learning_resource_types:
